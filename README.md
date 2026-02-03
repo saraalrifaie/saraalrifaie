@@ -3,7 +3,7 @@ I’m Sara, a Computer Science student to persue Masters in Software Engineering
 
 I work primarily with Python and Java, applying object-oriented programming, data structures, and algorithmic problem-solving. I also have experience building web applications and working with relational databases.
 
-I am particularly interested in machine learning, data analysis, and writing efficient, well-structured code. This profile contains academic and personal projects that reflect my technical growth and hands-on experience. All projects are built from scratch.
+I am particularly interested in machine learning, data analysis, and writing efficient, well-structured code. 
 
 Tools & Tech
 - Languages: Python, Java, SQL, HTML
