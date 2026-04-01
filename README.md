@@ -15,6 +15,6 @@ Tools & Tech
 
 
 A Bit About Me
-- Actively seeking internship opportunities
+- Actively seeking graduate opportunities
 - Strong interest in software engineering and machine learning
 - Motivated, detail-oriented, and continuously learning
